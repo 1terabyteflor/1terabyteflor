@@ -1,4 +1,12 @@
-## Hi there 👋
+**Software Engineer / Web Developer 👩‍💻**
+
+I am a Software Engineer with experience in web platforms and technologies like React, Next.js, Typescript, Javascript, and Wordpress. Passionate about contributing to projects through creativity and innovative technology. 
+
+### Get in touch 🔗
+
+- **Email**: [florencgmz@gmail.com](mailto:florencgmz@gmail.com)
+- **LinkedIn**: [Linkedin](https://www.linkedin.com/in/1tbflor)
+- **Portfolio**: [Portfolio](http://1tbflor.com)
 
 <!--
 **1terabyteflor/1terabyteflor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
