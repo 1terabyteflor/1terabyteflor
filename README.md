@@ -1,4 +1,4 @@
-** Software Engineer / Electronic Artist  **
+**Software Engineer / Electronic Artist**
 
 I am a Software Engineer with experience in web platforms and new technologies.  
 Constantly evolving and collaborating with artists, studios and tech collectives.
