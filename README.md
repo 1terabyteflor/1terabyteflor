@@ -1,6 +1,8 @@
-**Software Engineer / Web Developer 👩‍💻**
+**Software Engineer / Frontend Developer 👩‍💻**
 
-I am a Software Engineer with experience in web platforms and technologies like React, Next.js, Typescript, Javascript, and Wordpress. Passionate about contributing to projects through creativity and innovative technology. 
+I am a Software Engineer with experience in web platforms and new technologies.  
+Frontend Dev at [Newtro](https://newtro.xyz)
+Constantly evolving and collaborating with artists, studios and tech projects.
 
 ### Get in touch 🔗
 
