@@ -1,8 +1,9 @@
 **Software Engineer / Frontend Developer 👩‍💻**
 
 I am a Software Engineer with experience in web platforms and new technologies.  
+Constantly evolving and collaborating with artists, studios and tech collectives.
+
 Frontend Dev at [Newtro](https://newtro.xyz)
-Constantly evolving and collaborating with artists, studios and tech projects.
 
 ### Get in touch 🔗
 
